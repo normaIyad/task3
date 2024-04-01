@@ -1,0 +1,15 @@
+.services{
+    text-align: center;
+    background-color: rgb(244, 241, 241);
+    color: black;
+}
+ p {
+color: rgb(51, 50, 50);
+}
+.service{
+    display: inline-block;
+    width: 23%;
+}
+i{
+    color: orangered;
+}
